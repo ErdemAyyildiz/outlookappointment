@@ -30,7 +30,7 @@ namespace OutlookAddIn1
 
         #endregion
 
-        // Occurs before the form region is displayed.
+        // Occurs before the form region is displayed.d
         // Use this.OutlookItem to get a reference to the current Outlook item.
         // Use this.OutlookFormRegion to get a reference to the form region.
               
